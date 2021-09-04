@@ -1,0 +1,142 @@
+
+.backgroundimage{
+
+background-image: url('../img/mk.jpg');
+background-size: 100% 100%;
+background-attachment: fixed;
+width: 100%;
+height: 650px;
+
+}
+
+.hearderset{
+
+padding-top: 200px;
+
+
+}
+
+
+/************* Nav bar***************/
+
+.logo img{
+	width:54px;
+	height:40px;
+	
+}
+.navbar-dark .navbar-nav .nav-link {
+    color:white!important;
+}
+
+
+li a:hover:not(.active){
+	
+	background-color:#000000;
+	
+}
+.active{
+	
+	
+	background:#04AA6D;
+}
+ul{
+	
+	list-style-type:none;
+	padding:0;
+margin:0;
+	
+	
+}
+
+li{
+	
+	display:inline;
+	
+}
+
+
+
+
+
+
+
+
+.card{
+
+margin-top: 40px;
+
+}
+
+
+
+
+
+/****************************Service****************************/
+
+.Service{
+	
+padding-top:20px;	
+
+}
+
+ i.fa{
+    background:yellow;
+    width:70px;
+    height:70px;
+    border-radius: 50%;
+    text-align: center;
+    line-height:70px;
+    color:white;
+ font-size:45px;   
+}
+
+.para p{
+	text-align:justify!important;
+	
+}
+
+
+/*****************************Portfolio**************************/
+
+
+.portfolio h2{
+	font-size:35px;
+	font-weight:bold;
+	
+}
+
+
+
+/******************************Our Team***************************/
+.ourtteam h2{
+	
+	padding-top:50px;
+	font-weight:bold;
+	
+	
+	
+	
+}
+
+.teampro{
+	padding-top:50px;
+	
+}
+
+
+
+
+
+
+
+
+
+/************************footer***********************/
+
+
+.footer h6{
+	
+	padding-top:20px;
+	
+	
+}
